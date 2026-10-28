@@ -1,0 +1,10 @@
+REFERENCES AND OFFICIAL RESOURCES
+1. UniProt Consortium. UniProt: the Universal Protein Knowledgebase. https://www.uniprot.org/
+2. UniProtKB entries: P99999, P62897, P62894, P00004, P00044 (https://www.uniprot.org/uniprotkb/<accession>)
+3. EMBL-EBI Clustal Omega. https://www.ebi.ac.uk/jdispatcher/msa/clustalo
+4. EMBL-EBI MUSCLE. https://www.ebi.ac.uk/jdispatcher/msa/muscle
+5. PROSITE. https://prosite.expasy.org/
+6. InterPro. https://www.ebi.ac.uk/interpro/
+7. Sievers F, et al. Fast, scalable generation of high-quality protein multiple sequence alignments using Clustal Omega. Mol Syst Biol. 2011;7:539.
+8. Edgar RC. MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic Acids Res. 2004;32(5):1792-1797.
+9. Waterhouse AM, et al. Jalview Version 2 - a multiple sequence alignment editor and analysis workbench. Bioinformatics. 2009;25(9):1189-1191. (only if Jalview is used)
